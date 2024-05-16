@@ -4,12 +4,14 @@
 // 4. Create variable name (twitterHandle) & store your twitter handle.
 // 5. Finally log all variables to the console.
 
-let name = "HuXn WebDev";
-let whatDoYouWannaBecomeInYourLife = "programmer";
-let gender = "male";
-let twitterHandle = "@huxnwebdev";
+let name = "Al";
+let reskilled = "programmer";
+let food = "tacos";
+let githubHandle = "@AleDataAnalyst";
 
 console.log(name);
-console.log(whatDoYouWannaBecomeInYourLife);
+console.log(reskilled);
 console.log(gender);
 console.log(twitterHandle);
+// clg -> console.log()
+// log -> console.log()
